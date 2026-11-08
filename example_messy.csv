@@ -1,0 +1,7 @@
+Name,Phone,Email,Date,Amount
+John Doe,555-123-4567,john@example.com,2026-11-01,$150.00
+jane smith,(555) 987-6543,JANE@EXAMPLE.COM,11/02/2026,"$1,250.50"
+John Doe,555.123.4567,john@example.com,2026-11-01,$150.00
+  BOB WILSON  ,5550001111,bob@test.org,11-03-2026,45.2
+Alice Brown,,alice@domain.com,2026/11/04,$99.99
+jane smith,(555) 987-6543,jane@example.com,11/02/2026,$1250.50
